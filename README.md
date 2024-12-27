@@ -1,5 +1,5 @@
 # Galcon4Ray
-Galaxy Conquest strategy game using raylib and fpc compiler(Lazarus ide)
+Galaxy Conquest strategy game, built using RayLib and FPC compiler (Lazarus IDE)
 
-based on original code https://github.com/TetrisSQC/Galcon4Skia 
+Based on original code https://github.com/TetrisSQC/Galcon4Skia 
 

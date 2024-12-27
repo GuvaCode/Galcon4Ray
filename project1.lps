@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="356"/>
+        <CursorPos Y="372"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UGame.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1022"/>
+        <CursorPos X="25" Y="1039"/>
+        <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/Galcon-master/UMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="550"/>
+        <CursorPos X="39" Y="565"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="22"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/Galcon4Skia-main/UMain.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="11" Y="37"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/Galcon-master/UGame.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="24" Y="8"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Ray4Laz/package/ray4laz_customappprj.pas"/>
+        <UnitName Value="ray4laz_customAppPrj"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="120"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Ray4Laz/package/ray4laz_misc.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos X="61" Y="97"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="10" Y="2556"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Ray4Laz/source/rlgl.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="464"/>
+        <CursorPos X="11" Y="478"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/Galcon4Skia-main/UGame.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="363"/>
+        <CursorPos X="24" Y="370"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="335"/>
+        <CursorPos X="16" Y="357"/>
+        <UsageCount Value="32"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../Ray4Laz/source/raymath.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="22" Y="104"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ray4laz/source/raylib.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1767"/>
+        <CursorPos X="25" Y="1780"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/packages/fcl-base/src/custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="3" Y="30"/>
+        <UsageCount Value="19"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ray4laz/source/raymath.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="83"/>
+        <CursorPos X="25" Y="102"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../testrot/project1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="101"/>
+        <CursorPos Y="110"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/4.0.0/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="10" Y="266"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ray4laz/examples/textures/textures_fog_of_war/textures_fog_of_war.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="32" Y="133"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="141"/>
+        <CursorPos X="112" Y="152"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../.cache/.fr-HTQAZ2/Source/SoundSystem.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="706"/>
+        <CursorPos X="22" Y="721"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../.cache/.fr-0YKFZ2/Source/Audiere.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="28" Y="9"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ray4laz/examples/shapes/shapes_logo_raylib/shapes_raylogo_laz.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../ray4laz/examples/shapes/shapes_logo_raylib_anim/shapes_logo_raylib_anim.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="137"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/ray4laz-4.5/examples/shapes/shapes_logo_raylib/shapes_raylogo_laz.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../.cache/.fr-MSGGZ2/Вращение точки/Unit1.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="60" Y="39"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../Загрузки/Вращение точки/Unit1.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="189"/>
+        <CursorPos X="23" Y="206"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="223" Column="17" TopLine="213"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="84" Column="23" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="273" Column="48" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="223" Column="23" TopLine="215"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1391" TopLine="1363"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="84" Column="23" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="275" Column="24" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="194" Column="24" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1094" Column="15" TopLine="1087"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="230" Column="25" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1038" Column="5" TopLine="1032"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1036" Column="32" TopLine="1032"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="230" Column="25" TopLine="221"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1036" Column="45" TopLine="1034"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="230" Column="25" TopLine="221"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1043" Column="68" TopLine="702"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="195" Column="24" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1229" TopLine="1201"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="230" Column="25" TopLine="219"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1056" Column="32" TopLine="1022"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="194" Column="24" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1110" Column="15" TopLine="1103"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="230" Column="25" TopLine="213"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1056" Column="86" TopLine="1035"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="194" Column="24" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1214" Column="22" TopLine="1200"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="193" Column="25" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1045" Column="111" TopLine="1028"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="186" Column="24" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="UGame.pas"/>
+        <Caret Line="1042" Column="7" TopLine="1030"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
